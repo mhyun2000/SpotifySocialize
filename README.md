@@ -1,13 +1,11 @@
-# Joel Chacko's CSC 342 Work
+# CSC 342 Group Work
 **Names:**   
 Joel Chacko   
-Minho Hyun   
-Srisheel Gunnisetti    
+Minho Hyun       
 
 **UnityId:**    
 jchacko   
-mhyun   
-sgunnis   
+mhyun      
 
 ## Table of Contents
 
