@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Socialize: Home</title>
+  <link rel="stylesheet" href="/css/home.css">
+  <!-- References bootstrap library -->
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+  <script src="/js/home.js" type="module"></script>
+</head>
+<body>
+    <div class="topnav">
+      <a class="active" id="home" href="#home">Home</a>
+      <a id="about" href="/about">About</a>
+      <a id="contact" href="/contact">Contact</a>
+      <a id="logout" href="/logout">Logout</a>
+    </div>
+    <header id="header">
+
+    </header>
+    <main class="main">
+      <div id="playlistOptions">
+        <div id="playlist">
+          <div id="usersTop">
+            <div id="usersTitle">
+              Available Users
+            </div>
+            <div id="users">
+
+            </div>
+          </div>
+          <div id="addedUsersTop">
+            <div id="addedUsersTitle">
+              Your Friends
+            </div>
+            <div id="addedUsers">
+
+            </div>
+          </div>
+          <div id="generatedPlaylistTop">
+            <div id="generatedPlaylistTitle">
+              Generated Playlist
+            </div>
+            <div id="generatedPlaylist">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <div id="bottomContent">
+        <input type="text" id="playlistname" name="playlistname" placeholder="Enter Playlist Name Here">
+        <input id="generateButton" type="button" value="Generate Your Playlist">
+        <input id="viewPlaylist" type="button" value="View Spotify Playlist">
+    </div>
+    <div id="comparisonTop">
+      <div id="comparisonBottom">
+        <div id="comparisonTitle">
+          Friends With The Song
+        </div>
+        <div id="songTitle">
+          
+        </div>
+        <div id="friendsWithSong">
+
+        </div>
+      </div>
+    </div>
+    <div id="prompt">
+      <input id="anotherPlaylist" type="button" value="Generate Another Playlist?">
+    </div>
+    <footer class="footer">
+        Copyright (c) 2022. <strong>Socialize</strong> All Rights Reserved.
+    </footer>
+</body>
+</html>

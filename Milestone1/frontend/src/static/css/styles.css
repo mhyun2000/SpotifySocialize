@@ -1,0 +1,39 @@
+body {
+   background-color: rgb(182, 212, 173) !important;  /*adding !important forces the browser to overwrite the default style applied by Boostrap */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.col {
+  padding: 0rem;
+  color:rgb(84, 22, 201);
+  background-color: rgb(87, 170, 87);
+}
+
+.inputInfo input{
+  float: left;
+}
+
+.mainHeader {
+  font-family: 'Roboto Condensed', sans-serif;text-align:center;
+  font-size: 60px;
+}
+
+.aboutMessage {
+	font: 100% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #0e1309; 
+	margin: 0; 
+  text-align:center;
+  font-size: 24px;
+}
+
+
+.socialBox {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 324,
+        "userId": "juliusbrowdie",
+        "friends": [
+            "hmulibrowdie",
+            "grubblebrowdie",
+            "juliuscruncher09",
+            "charabrowdie",
+            "hopelessbrowdie",
+            "juliushyssopifolia",
+            "jmarkan2",
+            "robertcarf",
+            "sydneytul23"
+        ],
+        "songs": [
+            "SongA1",
+            "SongB2",
+            "SongC3",
+            "SongD2",
+            "SongE1",
+            "SongL34",
+            "SongG4",
+            "SongY76",
+            "SongT43",
+            "SongH23",
+            "SongU87"
+        ]
+    },
+    {
+        "id": 325,
+        "userId": "hmulibrowdie",
+        "friends": [
+            "hmulibrowdie",
+            "michaelwgeorge",
+            "juliuscruncher09",
+            "charabrowdie",
+            "hopelessbrowdie",
+            "juliushyssopifolia",
+            "jmarkan2",
+            "robertcarf",
+            "sydneytul23"
+        ],
+        "songs": [
+            "SongA15",
+            "SongB2",
+            "SongC33",
+            "SongD22",
+            "SongE12",
+            "SongL34",
+            "SongG4",
+            "SongY765",
+            "SongT43",
+            "SongH213",
+            "SongU87"
+        ]
+    },
+    {
+        "id": 326,
+        "userId": "robertcarf",
+        "friends": [
+            "hmulibrowdie",
+            "grubblebrowdie",
+            "AlexChatham",
+            "charabrowdie",
+            "hopelessbrowdie",
+            "juliushyssopifolia",
+            "jmarkan2",
+            "robertcarf",
+            "sydneytul23"
+        ],
+        "songs": [
+            "SongA15",
+            "SongB2",
+            "SongC3",
+            "SongD2",
+            "SongE1",
+            "SongL304",
+            "SongG4",
+            "SongY76",
+            "SongT43",
+            "SongH213",
+            "SongU87"
+        ]
+    },
+    {
+        "id": 327,
+        "userId": "jmarkan2",
+        "friends": [
+            "hmulibrowdie",
+            "grubblebrowdie",
+            "juliuscruncher09",
+            "charabrowdie",
+            "hopelessbrowdie",
+            "juliushyssopifolia",
+            "jmarkan2",
+            "robertcarf",
+            "sydneytul23"
+        ],
+        "songs": [
+            "SongA21",
+            "SongB12",
+            "SongC3",
+            "SongD26",
+            "SongE16",
+            "SongL34",
+            "SongG44",
+            "SongY76",
+            "SongT433",
+            "SongH223",
+            "SongU87"
+        ]
+    },
+    {
+        "id": 328,
+        "userId": "charabrowdie",
+        "friends": [
+            "hmulibrowdie",
+            "grubblebrowdie",
+            "juliuscruncher09",
+            "charabrowdie",
+            "hopelessbrowdie",
+            "juliushyssopifolia",
+            "jmarkan2",
+            "robertcarf",
+            "sydneytul23"
+        ],
+        "songs": [
+            "SongA15",
+            "SongB22",
+            "SongC23",
+            "SongD2",
+            "SongE41",
+            "SongL304",
+            "SongG4",
+            "SongY76",
+            "SongT43",
+            "SongH23",
+            "SongU857"
+        ]
+    }
+]
