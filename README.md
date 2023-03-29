@@ -1,3 +1,6 @@
+Disclaimer: Rotated client_secret_key used to connect to Spotify API for security reasons. Repository is for display only.
+
+
 # CSC 342 Group Work
 **Names:**   
 Joel Chacko   
